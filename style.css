@@ -1,0 +1,78 @@
+.font-w{
+    font-weight: 600;
+}
+.btn-nav{
+    background: #FD6E0A;
+    width: 90px;
+    height: 50px;
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 16px;
+    color: white;
+}
+.bike{
+    background: #E76F511A;
+
+}
+
+.bike-con h1{
+    font-weight: 700;
+    font-size: 60px;
+}
+.i-color{
+    background-color: rgba(255, 0, 0, 0.274);
+}
+.featured-des h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+.featured-des p{
+    font-weight: 600;
+    font-size: 14px;
+    color: #E76F51;
+
+}
+.latest-des h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+.latest-card-part{
+    background-color: rgba(0, 0, 139, 0.644);
+}
+.btn-bi{
+    background: #FD6E0A;
+    width: 120px;
+    height: 50px;
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 16px;
+    color: white;
+}
+.btn-bi2{
+    color: #FD6E0A;
+    width: 120px;
+    height: 50px;
+    border-radius: 8px;
+    border-color:#FD6E0A ;
+    font-weight: 700;
+    font-size: 16px;
+    
+}
+.clients-color{
+    color: #E76F51;
+}
+.Rating-icons-size{
+    height: 30px;
+    width:  30px;
+}
+@media screen and (max-width: 576px){
+    .featured-des h1{
+        font-size: 30px;
+        font-weight: 700;
+    }
+    .latest-des h1{
+        font-size: 30px;
+        font-weight: 700;
+    }
+    
+}
